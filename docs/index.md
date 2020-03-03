@@ -10,8 +10,10 @@
 
 ---
 
+Link to Jupyter notebook:  https://colab.research.google.com/drive/1GbiWBKSvAM4Qnjd0sU2Z3OTpjHyNBTqF
 
-[The IS-LM-IP model for Iceland economy 1987-2017](https://teator.github.io/shared-files/gw3%20CSRM%20group%20work%20sub3%20(TT).html)
+
+Link to interactive .html file:  [The IS-LM-IP model for Iceland economy 1987-2017](https://teator.github.io/shared-files/gw3%20CSRM%20group%20work%20sub3%20(TT).html)
 
 
 
